@@ -1,0 +1,36 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "express mondodb database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajrajputiet/node-express.git"
+  },
+  "author": "Pankaj Rajput",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankajrajputiet/node-express/issues"
+  },
+  "homepage": "https://github.com/pankajrajputiet/node-express#readme",
+  "keywords": [
+    "express",
+    "mondodb",
+    "mongoose",
+    "database"
+  ],
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "dotenv": "^15.0.0",
+    "express": "^4.17.2",
+    "express-validator": "^6.14.0",
+    "mongoose": "^6.1.10",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  }
+}
